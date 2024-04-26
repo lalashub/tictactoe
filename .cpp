@@ -107,7 +107,4 @@ int main()
 	{
 		cout << "You both suck!" << endl;
 	}
-
-
-
 }
